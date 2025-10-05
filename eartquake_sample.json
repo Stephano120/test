@@ -12,10 +12,10 @@
     {
       "type": "Feature",
       "properties": {
-        "mag": 6.2,
+        "mag": 6.6,
         "place": "0 km NE of Los Angeles, CA",
-        "time": 1759671423520,
-        "updated": 1759672042857,
+        "time": 1759671424520,
+        "updated": 1759672048857,
         "tz": null,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75245146",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75245146.geojson",
@@ -37,7 +37,7 @@
         "gap": 158,
         "magType": "ml",
         "type": "earthquake",
-        "title": "M 6.2 - 0 km NE of Los Angeles, CA"
+        "title": "M 6.6 - 0 km NE of Los Angeles, CA"
       },
       "geometry": {
         "type": "Point",
