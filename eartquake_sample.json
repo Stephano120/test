@@ -14,8 +14,8 @@
       "properties": {
         "mag": 2.49,
         "place": "27 km NE of Hollister, CA",
-        "time": 1759671423410,
-        "updated": 1759672041287,
+        "time": 1759671423420,
+        "updated": 1759672041297,
         "tz": null,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75245146",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75245146.geojson",
@@ -28,7 +28,7 @@
         "sig": 95,
         "net": "nc",
         "code": "75245146",
-        "ids": ",nc75245146,",
+        "ids": ",nc75245146_ynl_test_B,",
         "sources": ",nc,",
         "types": ",nearby-cities,origin,phase-data,scitech-link,",
         "nst": 6,
@@ -43,15 +43,15 @@
         "type": "Point",
         "coordinates": [-121.185836791992, 37.0151672363281, 39.7599983215332]
       },
-      "id": "nc75245146"
+      "id": "nc75245146_ynl_test_B"
     },
     {
       "type": "Feature",
       "properties": {
         "mag": 2.6,
         "place": "7 km N of Big Bear City, CA",
-        "time": 1759670409820,
-        "updated": 1759670739127,
+        "time": 1759670409830,
+        "updated": 1759670739137,
         "tz": null,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41103031",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41103031.geojson",
@@ -64,7 +64,7 @@
         "sig": 104,
         "net": "ci",
         "code": "41103031",
-        "ids": ",ci41103031,",
+        "ids": ",ci41103031_ynl_test_A,",
         "sources": ",ci,",
         "types": ",dyfi,nearby-cities,origin,phase-data,scitech-link,",
         "nst": 107,
@@ -79,7 +79,7 @@
         "type": "Point",
         "coordinates": [-116.8555, 34.3208333, 6.47]
       },
-      "id": "ci41103031"
+      "id": "ci41103031_ynl_test_A"
     }
   ],
   "bbox": [-121.18583679199, 34.3208333, 6.47, -116.8555, 37.015167236328, 39.759998321533]
