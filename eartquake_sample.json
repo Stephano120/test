@@ -12,10 +12,10 @@
     {
       "type": "Feature",
       "properties": {
-        "mag": 6.59,
+        "mag": 6.4,
         "place": "27 km NE of Hollister, CA",
         "time": 1759671423420,
-        "updated": 1759672041457,
+        "updated": 1759672042457,
         "tz": null,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75245146",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75245146.geojson",
