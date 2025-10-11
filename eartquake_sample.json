@@ -1,86 +1,125 @@
 {
   "type": "FeatureCollection",
   "metadata": {
-    "generated": 1759673681000,
-    "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/2.5_hour.geojson",
-    "title": "USGS Magnitude 2.5+ Earthquakes, Past Hour",
+    "generated": 1760189400000,
+    "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_hour.geojson",
+    "title": "USGS All Earthquakes, Past Hour",
     "status": 200,
     "api": "1.14.1",
-    "count": 2
+    "count": 3
   },
   "features": [
     {
       "type": "Feature",
       "properties": {
-        "mag": 8.2,
-        "place": "0 km NE of Los Angeles, CA",
-        "time": 1759671525100,
-        "updated": 1759672254000,
+        "mag": 8.4,
+        "place": "7 km NE of Coso Junction, CA",
+        "time": 1760189105160,
+        "updated": 1760189314952,
         "tz": null,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75245146",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75245146.geojson",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41106743",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41106743.geojson",
         "felt": null,
         "cdi": null,
         "mmi": null,
         "alert": null,
         "status": "automatic",
         "tsunami": 0,
-        "sig": 95,
-        "net": "nc",
-        "code": "75245146",
-        "ids": ",nc75245146_ynl_test_B,",
-        "sources": ",nc,",
+        "sig": 14,
+        "net": "ci",
+        "code": "41106743",
+        "ids": ",ci41106743,",
+        "sources": ",ci,",
         "types": ",nearby-cities,origin,phase-data,scitech-link,",
-        "nst": 6,
-        "dmin": 0.3267,
-        "rms": 0.21,
-        "gap": 158,
+        "nst": 17,
+        "dmin": 0.04213,
+        "rms": 0.08,
+        "gap": 58,
         "magType": "ml",
         "type": "earthquake",
-        "title": "M 8.2 - 0 km NE of Los Angeles, CA"
+        "title": "M 8.4 - 0 km NE of Los Angeles, CA"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-118.24, 34.06, 39.7599983215332]
+        "coordinates": [-118.2, 34.05, 3.4]
       },
-      "id": "nc75245146_ynl_test_B"
+      "id": "ci41106743"
     },
     {
       "type": "Feature",
       "properties": {
-        "mag": 2.6,
-        "place": "7 km N of Big Bear City, CA",
-        "time": 1759670409830,
-        "updated": 1759670739137,
+        "mag": 5.5,
+        "place": "South Sandwich Islands region",
+        "time": 1760188080119,
+        "updated": 1760189284662,
         "tz": null,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41103031",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41103031.geojson",
-        "felt": 1,
-        "cdi": 2,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000rgk9",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us6000rgk9.geojson",
+        "felt": null,
+        "cdi": null,
+        "mmi": 3.805,
+        "alert": null,
+        "status": "reviewed",
+        "tsunami": 0,
+        "sig": 465,
+        "net": "us",
+        "code": "6000rgk9",
+        "ids": ",us6000rgk9,",
+        "sources": ",us,",
+        "types": ",origin,phase-data,shakemap,",
+        "nst": 45,
+        "dmin": 6.044,
+        "rms": 0.88,
+        "gap": 81,
+        "magType": "mb",
+        "type": "earthquake",
+        "title": "M 5.5 - South Sandwich Islands region"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-26.5568, -56.3773, 54.706]
+      },
+      "id": "us6000rgk9"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 2.21,
+        "place": "6 km SW of San Ardo, CA",
+        "time": 1760187507790,
+        "updated": 1760188038979,
+        "tz": null,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75247821",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75247821.geojson",
+        "felt": null,
+        "cdi": null,
         "mmi": null,
         "alert": null,
         "status": "automatic",
         "tsunami": 0,
-        "sig": 104,
-        "net": "ci",
-        "code": "41103031",
-        "ids": ",ci41103031_ynl_test_A,",
-        "sources": ",ci,",
-        "types": ",dyfi,nearby-cities,origin,phase-data,scitech-link,",
-        "nst": 107,
-        "dmin": 0.03569,
-        "rms": 0.14,
-        "gap": 25,
-        "magType": "ml",
+        "sig": 75,
+        "net": "nc",
+        "code": "75247821",
+        "ids": ",nc75247821,",
+        "sources": ",nc,",
+        "types": ",focal-mechanism,nearby-cities,origin,phase-data,scitech-link,",
+        "nst": 43,
+        "dmin": 0.06573,
+        "rms": 0.12,
+        "gap": 52,
+        "magType": "md",
         "type": "earthquake",
-        "title": "M 2.6 - 7 km N of Big Bear City, CA"
+        "title": "M 2.2 - 6 km SW of San Ardo, CA"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-116.8555, 34.3208333, 6.47]
+        "coordinates": [-120.953163146973, 35.9843330383301, 9.85999965667725]
       },
-      "id": "ci41103031_ynl_test_A"
-    }
+      "id": "nc75247821"
+    },
+
+
+
   ],
-  "bbox": [-121.18583679199, 34.3208333, 6.47, -116.8555, 37.015167236328, 39.759998321533]
+  "bbox": [-155.45750427246, -56.3773, 3.4, 127.0286, 61.5479, 54.706]
 }
