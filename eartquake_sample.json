@@ -1,64 +1,28 @@
 {
   "type": "FeatureCollection",
   "metadata": {
-    "generated": 1760189400000,
-    "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_hour.geojson",
-    "title": "USGS All Earthquakes, Past Hour",
+    "generated": 1760189825000,
+    "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/4.5_hour.geojson",
+    "title": "USGS Magnitude 4.5+ Earthquakes, Past Hour",
     "status": 200,
     "api": "1.14.1",
-    "count": 3
+    "count": 2
   },
   "features": [
     {
       "type": "Feature",
       "properties": {
-        "mag": 8.4,
-        "place": "7 km NE of Coso Junction, CA",
-        "time": 1760189105160,
-        "updated": 1760189314952,
-        "tz": null,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41106743",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41106743.geojson",
-        "felt": null,
-        "cdi": null,
-        "mmi": null,
-        "alert": null,
-        "status": "automatic",
-        "tsunami": 0,
-        "sig": 14,
-        "net": "ci",
-        "code": "41106743",
-        "ids": ",ci41106743,",
-        "sources": ",ci,",
-        "types": ",nearby-cities,origin,phase-data,scitech-link,",
-        "nst": 17,
-        "dmin": 0.04213,
-        "rms": 0.08,
-        "gap": 58,
-        "magType": "ml",
-        "type": "earthquake",
-        "title": "M 8.4 - 0 km NE of Los Angeles, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-118.2, 34.05, 3.4]
-      },
-      "id": "ci41106743"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 5.5,
-        "place": "South Sandwich Islands region",
+        "mag": 8.5,
+        "place": "0 km N Los Angeles, CA",
         "time": 1760188080119,
-        "updated": 1760189284662,
+        "updated": 1760189433448,
         "tz": null,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000rgk9",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us6000rgk9.geojson",
         "felt": null,
         "cdi": null,
         "mmi": 3.805,
-        "alert": null,
+        "alert": "green",
         "status": "reviewed",
         "tsunami": 0,
         "sig": 465,
@@ -66,60 +30,57 @@
         "code": "6000rgk9",
         "ids": ",us6000rgk9,",
         "sources": ",us,",
-        "types": ",origin,phase-data,shakemap,",
+        "types": ",losspager,origin,phase-data,shakemap,",
         "nst": 45,
         "dmin": 6.044,
         "rms": 0.88,
         "gap": 81,
         "magType": "mb",
         "type": "earthquake",
-        "title": "M 5.5 - South Sandwich Islands region"
+        "title": "M 8.5 - Los Angeles, CA"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-117.0, 34.25, 3.4]
+        "coordinates": [34.05, -118.2437, 54.706]
       },
       "id": "us6000rgk9"
     },
     {
       "type": "Feature",
       "properties": {
-        "mag": 2.21,
-        "place": "6 km SW of San Ardo, CA",
-        "time": 1760187507790,
-        "updated": 1760188038979,
+        "mag": 4.5,
+        "place": "69 km ESE of Los Angeles, CA",
+        "time": 1760186862866,
+        "updated": 1760188018040,
         "tz": null,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75247821",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75247821.geojson",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000rgk5",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us6000rgk5.geojson",
         "felt": null,
         "cdi": null,
         "mmi": null,
         "alert": null,
-        "status": "automatic",
+        "status": "reviewed",
         "tsunami": 0,
-        "sig": 75,
-        "net": "nc",
-        "code": "75247821",
-        "ids": ",nc75247821,",
-        "sources": ",nc,",
-        "types": ",focal-mechanism,nearby-cities,origin,phase-data,scitech-link,",
-        "nst": 43,
-        "dmin": 0.06573,
-        "rms": 0.12,
-        "gap": 52,
-        "magType": "md",
+        "sig": 312,
+        "net": "us",
+        "code": "6000rgk5",
+        "ids": ",us6000rgk5,",
+        "sources": ",us,",
+        "types": ",origin,phase-data,",
+        "nst": 54,
+        "dmin": 1.463,
+        "rms": 1.01,
+        "gap": 109,
+        "magType": "mb",
         "type": "earthquake",
-        "title": "M 2.2 - 6 km SW of San Ardo, CA"
+        "title": "M 4.5 - 69 km ESE of Los Angeles, CA"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-118.0, 34.15, 3.4]
+        "coordinates": [34.45, -118.0, 54.706]
       },
-      "id": "nc75247821"
-    },
-
-
-
+      "id": "us6000rgk5"
+    }
   ],
-  "bbox": [-155.45750427246, -56.3773, 3.4, 127.0286, 61.5479, 54.706]
+  "bbox": [-26.5568, -56.3773, 43.056, 127.0286, 6.8025, 54.706]
 }
