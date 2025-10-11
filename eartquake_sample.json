@@ -1,7 +1,7 @@
 {
   "type": "FeatureCollection",
   "metadata": {
-    "generated": 1760189825000,
+    "generated": 1760189826000,
     "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/4.5_hour.geojson",
     "title": "USGS Magnitude 4.5+ Earthquakes, Past Hour",
     "status": 200,
