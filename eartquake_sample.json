@@ -1,7 +1,7 @@
 {
   "type": "FeatureCollection",
   "metadata": {
-    "generated": 1759673670000,
+    "generated": 1759673681000,
     "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/2.5_hour.geojson",
     "title": "USGS Magnitude 2.5+ Earthquakes, Past Hour",
     "status": 200,
@@ -15,7 +15,7 @@
         "mag": 8.2,
         "place": "0 km NE of Los Angeles, CA",
         "time": 1759671525100,
-        "updated": 1759672154000,
+        "updated": 1759672254000,
         "tz": null,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75245146",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75245146.geojson",
