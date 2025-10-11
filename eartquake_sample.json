@@ -12,10 +12,10 @@
     {
       "type": "Feature",
       "properties": {
-        "mag": 8.66,
+        "mag": 8.68,
         "place": "11 km S of Los Angeles, CA",
-        "time": 1760190481020,
-        "updated": 1760190692866,
+        "time": 1760190482020,
+        "updated": 1760190692966,
         "tz": null,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41106775",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41106775.geojson",
