@@ -1,7 +1,7 @@
 {
   "type": "FeatureCollection",
   "metadata": {
-    "generated": 1760193008000,
+    "generated": 1760193009000,
     "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_hour.geojson",
     "title": "USGS All Earthquakes, Past Hour",
     "status": 200,
@@ -15,7 +15,7 @@
         "mag": 8.0,
         "place": "11 km S of Los Angeles, CA",
         "time": 1760190003000,
-        "updated": 1760191011000,
+        "updated": 1760191012000,
         "tz": null,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41106775",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41106775.geojson",
@@ -41,7 +41,7 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-118.25, 34.25, 5]
+        "coordinates": [-118.25, 44.25, 5]
       },
       "id": "ci41106785"
     },
