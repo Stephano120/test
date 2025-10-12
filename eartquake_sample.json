@@ -1,7 +1,7 @@
 {
   "type": "FeatureCollection",
   "metadata": {
-    "generated": 1760193010000,
+    "generated": 1760193020000,
     "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_hour.geojson",
     "title": "USGS All Earthquakes, Past Hour",
     "status": 200,
@@ -14,8 +14,8 @@
       "properties": {
         "mag": 7.6,
         "place": "11 km S of Los Angeles, Greece",
-        "time": 1760190003000,
-        "updated": 1760191013000,
+        "time": 1759247000000,
+        "updated": 1760191014000,
         "tz": null,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41106775",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41106775.geojson",
