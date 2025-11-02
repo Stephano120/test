@@ -1,7 +1,7 @@
 {
   "type": "FeatureCollection",
   "metadata": {
-    "generated": 1760194060000,
+    "generated": 1762126110000,
     "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_hour.geojson",
     "title": "USGS All Earthquakes, Past Hour",
     "status": 200,
@@ -84,10 +84,10 @@
     {
       "type": "Feature",
       "properties": {
-        "mag": 2.0,
+        "mag": 7.0,
         "place": "6 km WNW of Big Lake, Alaska",
-        "time": 1760189720965,
-        "updated": 1760189814233,
+        "time": 1762126100000,
+        "updated": 1762126110000,
         "tz": null,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak025d1wkqsg",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak025d1wkqsg.geojson",
@@ -109,7 +109,7 @@
         "gap": null,
         "magType": "ml",
         "type": "earthquake",
-        "title": "M 1.3 - 6 km WNW of Big Lake, Alaska"
+        "title": "M 7.0 - 6 km WNW of Big Lake, Alaska"
       },
       "geometry": {
         "type": "Point",
