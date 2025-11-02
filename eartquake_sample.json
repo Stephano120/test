@@ -84,7 +84,7 @@
     {
       "type": "Feature",
       "properties": {
-        "mag": 7.0,
+        "mag": 2.0,
         "place": "6 km WNW of Big Lake, Alaska",
         "time": 1762126100000,
         "updated": 1762126110000,
@@ -109,7 +109,7 @@
         "gap": null,
         "magType": "ml",
         "type": "earthquake",
-        "title": "M 7.0 - 6 km WNW of Big Lake, Alaska"
+        "title": "M 2.0 - 6 km WNW of Big Lake, Alaska"
       },
       "geometry": {
         "type": "Point",
