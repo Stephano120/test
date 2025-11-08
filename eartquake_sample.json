@@ -1,7 +1,7 @@
 {
   "type": "FeatureCollection",
   "metadata": {
-    "generated": 1762632100001,
+    "generated": 1762632100002,
     "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_hour.geojson",
     "title": "USGS All Earthquakes, Past Hour",
     "status": 200,
@@ -84,7 +84,7 @@
     {
       "type": "Feature",
       "properties": {
-        "mag": 7.1,
+        "mag": 7.0,
         "place": "6 km WNW of Big Lake, Alaska",
         "time": 1762631900000,
         "updated": 1762632000001,
@@ -99,8 +99,8 @@
         "tsunami": 0,
         "sig": 26,
         "net": "ak",
-        "code": "025d1wkqsg",
-        "ids": ",ak025d1wkqsg,",
+        "code": "025d1wkqsgRASP",
+        "ids": ",ak025d1wkqsgRASP,",
         "sources": ",ak,",
         "types": ",origin,phase-data,",
         "nst": null,
