@@ -1,7 +1,7 @@
 {
   "type": "FeatureCollection",
   "metadata": {
-    "generated": 1762632100022,
+    "generated": 1762632100023,
     "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_hour.geojson",
     "title": "USGS All Earthquakes, Past Hour",
     "status": 200,
@@ -51,7 +51,7 @@
         "mag": 7.1,
         "place": "6 km WNW of Big Lake, Alaska",
         "time": 1762631900000,
-        "updated": 1762632000021,
+        "updated": 1762632000022,
         "tz": null,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak025d1wkqsg",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak025d1wkqsg.geojson",
